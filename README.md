@@ -9,7 +9,7 @@ This script will allow the user to select a folder with a dialog box.
 The folder will then be cloned into the same location with "_PDFClone" added to the name. 
 The script then searches the folder and all sub folders for .doc and .docx files and converts them to PDF. 
 After which the .doc and .docx files are deleted. 
-This is useful for exporting folders to pdf when seing files to clients in business.
+This is useful for exporting folders to pdf when sending files to clients in business.
 
 HOW TO LAUNCH:
 1. Copy the repo to any folder you wish.
